@@ -1,3 +1,5 @@
+audio links might be placed on non-standard attributes of audio players. this fork intends to remove limits for iterlinks() in order to search other attributes as well
+
 What is lxml?
 =============
 
