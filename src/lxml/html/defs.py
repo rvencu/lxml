@@ -24,7 +24,9 @@ link_attrs = frozenset([
     # Not standard:
     'dynsrc', 'lowsrc',
     # HTML5 formaction
-    'formaction'
+    'formaction',
+    # audio players attributes
+    'fileUrl'
     ])
 
 # Not in the HTML 4 spec:
